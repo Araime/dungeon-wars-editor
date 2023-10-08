@@ -5,7 +5,7 @@
 
 ## Что реализовано:
 Создание новых и редактирование существующих уровней.  
-!!! Для доступа к существующим уровням необходимо levels из игры
+!!! Для доступа к существующим уровням необходимо папку levels из игры
 положить в корень репозитория.
 
 ![img](img.png)
@@ -15,7 +15,7 @@
 ### Скачать
 
 Python3 должен быть уже установлен.
-[Скачать](https://github.com/Araime/alarm-clock/archive/master.zip) этот 
+[Скачать](https://github.com/Araime/dungeon-wars-editor/archive/master.zip) этот 
 репозиторий себе на компьютер.
 
 Рекомендуется использовать [virtualenv/venv](https://docs.python.org/3/library/venv.html)
